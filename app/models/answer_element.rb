@@ -1,0 +1,2 @@
+class AnswerElement < ApplicationRecord
+end
